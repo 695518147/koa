@@ -1,0 +1,19 @@
+{
+  "name": "wxpay",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.13.1",
+    "koa-bodyparser": "^4.3.0",
+    "koa-router": "^10.0.0",
+    "mz": "^2.7.0",
+    "nunjucks": "^3.2.2",
+    "tenpay": "^2.1.18"
+  }
+}
